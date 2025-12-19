@@ -1,58 +1,16 @@
-# 🎒 Bags Classification System
+# cabilogan_bags_classifier
 
-A final project developed to classify different types of bags based on specific criteria.  
-This system was created as part of an academic requirement, focusing on **data organization, classification logic, and system design**.
+A new Flutter project.
 
----
+## Getting Started
 
-## 📌 Project Overview
+This project is a starting point for a Flutter application.
 
-The Bags Classification System is designed to categorize bags into different groups using predefined attributes.  
-The project emphasizes understanding how classification systems work and how data can be processed and organized effectively.
+A few resources to get you started if this is your first Flutter project:
 
-This is an **academic final project**, built to apply concepts learned throughout the course.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
----
-
-## ⚙️ System Features
-
-- Classification of bags based on selected attributes
-- Structured data handling
-- Simple and organized system flow
-- User-friendly interface (basic)
-
----
-
-## 🛠️ Technologies Used
-
-- Programming Language: *(specify here, e.g. Python / Java / PHP)*
-- Database: *(if applicable)*
-- Tools: Git, GitHub
-
----
-
-## 🎯 Purpose of the Project
-
-This project was created to:
-- Apply classification concepts in a real-world scenario
-- Practice organizing and managing data
-- Demonstrate system analysis and design skills
-- Fulfill final project requirements
-
----
-
-## 🚀 Future Enhancements
-
-- Improve classification accuracy
-- Add more categories and attributes
-- Enhance user interface design
-- Integrate database support
-- Add reporting or summary features
-
----
-
-## 👤 Author
-
-**Bernadine Cabilogan**  
-IT Student  
-GitHub: [cabiloganbernadine-lab](https://github.com/cabiloganbernadine-lab)
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

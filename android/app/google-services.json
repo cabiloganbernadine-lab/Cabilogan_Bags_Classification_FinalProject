@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "318355246796",
+    "firebase_url": "https://cabiloganbags-6da47-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cabiloganbags-6da47",
+    "storage_bucket": "cabiloganbags-6da47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318355246796:android:fdb59d0de49b0a2e4a7c69",
+        "android_client_info": {
+          "package_name": "com.example.cabilogan_bags_classifier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnE6_sEtFu5pob_au9F_k_rPPrStyDQII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

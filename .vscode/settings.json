@@ -1,0 +1,9 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "files.exclude": {
+        "ios/": true
+    },
+    "search.exclude": {
+        "ios/": true
+    }
+}
