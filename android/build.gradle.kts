@@ -19,9 +19,18 @@ subprojects {
     afterEvaluate {
         val extension = project.extensions.findByName("android")
         if (extension is com.android.build.gradle.BaseExtension) {
-            extension.compileSdkVersion(36)
+            // Fix: older plugins like tflite_v2 don't have a namespace
+            try {
+                if (extension.namespace == null) {
+                    extension.namespace = "com.example.${project.name.replace("-", "_")}"
+                }
+            } catch (e: Exception) {
+                // Property might not exist on older AGP versions
+            }
+            
+            extension.compileSdkVersion(35)
             extension.defaultConfig {
-                targetSdkVersion(36)
+                targetSdkVersion(35)
             }
         }
     }
